@@ -8,5 +8,5 @@ Tech Stack
 - Login: Clerk
 - Real-time Edits: Liveblocks
 - Editor: Tiptap
-- Styling: Tailwin, shadcn/ui
+- Styling: Tailwind, shadcn/ui
 - State Management: Zustand
